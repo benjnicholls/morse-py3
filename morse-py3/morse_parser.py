@@ -1,4 +1,5 @@
 import argparse
+import re
 
 morse_code = {
     'A': '·—',
